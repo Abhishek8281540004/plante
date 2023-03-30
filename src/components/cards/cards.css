@@ -1,0 +1,19 @@
+.card{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    height: 350px;
+   
+    
+    
+}
+.cards1{
+    display: flex;
+  
+    width: 1300px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+.ci{
+    height: 200px;
+}

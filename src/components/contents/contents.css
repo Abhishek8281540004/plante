@@ -1,0 +1,114 @@
+.banner{
+    background-image: url('https://images.pexels.com/photos/7941158/pexels-photo-7941158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-color: brown;
+    height: 200px;
+    width: 800px;
+    border-radius: 20px;
+    margin-left: 20px;
+   
+}
+.heading{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.btn{
+    background: none;
+    color: aliceblue;
+    border-radius: 10px;
+    border-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 100px;
+    height: 30px;
+}
+.btn2{
+    background: none;
+    color: aliceblue;
+    border-radius: 10px;
+    border-color: aliceblue;
+    margin-top: 70px;
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+}
+.btn:hover{
+    background-color: azure;
+    color: palegreen;
+    font-weight: 900;
+    cursor: pointer;
+    
+}
+.btn2:hover{
+    background-color: azure;
+    color: palegreen;
+    font-weight: 900;
+    cursor: pointer;
+}
+.head{
+    color: aliceblue;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0;
+    margin-left: 80px;
+}
+.trend{
+    background-color: rgb(218, 236, 216);
+    height: 200px;
+    width: 465px;
+    margin-top: 1px;
+    margin-left: 10px;
+    border-radius: 20px;
+    
+}
+.trend:hover{
+    background-color: rgb(181, 234, 204);
+}
+.trendheading{
+   color: rgb(73, 77, 73);
+   margin: 0;
+   height: 60px;
+   width: 100px;
+   margin-top: 0px;
+   margin-left: 30px;
+   margin-right: 0;
+}
+.trendimg{
+    height: 180px;
+    margin-top: 0px;
+    padding-top: 10px;
+    border: 0px;
+    border-radius: 20px;
+    float: right;
+    margin-right: 10px;
+    
+    
+}
+.wel{
+    height: 10px;
+    width: 380px;
+    margin-left: 30px;
+}
+.nav{
+    width: 100px;
+   
+    height: 70px;
+}
+.cont{
+    display:flex;
+}
+.profilei{
+    padding-left: 1000px;
+    
+}
+.tre{
+    color: gray;
+    margin-left: 20px;
+}
+
+.pla{
+    color: rgb(43, 46, 43);
+    margin-left: 20px;
+}
+
